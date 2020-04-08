@@ -1,1 +1,1 @@
-# Predictive-Model-with-R
+Predictive Model for Airbnb Listings in New York City
